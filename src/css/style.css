@@ -1,0 +1,14 @@
+.albums-wrap {
+    max-width: 500px;
+}
+.album-photos-wrap {
+    max-width: calc(100% - 500px);
+}
+.album {
+    cursor: pointer;
+}
+
+.card {
+    margin: 20px;
+    height: 150px;
+}
